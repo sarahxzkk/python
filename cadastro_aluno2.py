@@ -14,3 +14,4 @@ aluno = [cadastro_aluno]
 
 print(cadastro_aluno)
 
+
